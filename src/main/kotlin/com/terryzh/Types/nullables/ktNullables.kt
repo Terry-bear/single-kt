@@ -35,10 +35,10 @@ fun main() {
 
 
 
-    val person = Person()
-    val title = person.title
-
-    val titleLength = title?.length
+//    val person = Person()
+//    val title = person.title
+//
+//    val titleLength = title?.length
 
     val file = File("abc")
 
