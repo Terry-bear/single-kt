@@ -1,4 +1,4 @@
-package com.bennyhuo.kotlin.types.eg
+package com.terryzh.Types.eg
 
 data class Repository(
     var id: Int,
